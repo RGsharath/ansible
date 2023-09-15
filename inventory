@@ -1,1 +1,6 @@
+
+[web_servers]
+ubuntu@54.221.11.81
+
+[db_servers]
 ubuntu@54.221.11.81
