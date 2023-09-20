@@ -1,6 +1,4 @@
 
 [web_servers]
-ubuntu@50.16.56.191
+ubuntu@54.196.66.254
 
-[db_servers]
-ubuntu@50.16.56.191
