@@ -1,4 +1,6 @@
 
 [web_servers]
-ubuntu@54.196.66.254
+ubuntu@107.22.64.188
 
+[work_station]
+ubuntu@107.22.64.188
